@@ -63,7 +63,6 @@ npm run generate  # generate استاتیک
 
 صفحه اصلی شامل این بخش‌هاست:
 
-- **LayoutNeonLight** — دایره آبی کم‌رنگ ثابت وسط viewport (پس‌زمینه)
 - **LayoutHeader** — promo bar، نوار اصلی، mega menu
 - **LayoutUserPanelShell** — سایدبار پنل کاربر + محتوای صفحه
 - **LayoutShopFeatures** — کارت‌های ویژگی فروشگاه

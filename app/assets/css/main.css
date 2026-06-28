@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --font-sans: payda, ui-sans-serif, system-ui, sans-serif;
+  --font-inter: Inter, ui-sans-serif, system-ui, sans-serif;
+
+  --color-primary-50: oklch(87.605% 0.04819 267.18);
+  --color-primary-100: oklch(83.604% 0.06397 266.3);
+  --color-primary-300: oklch(67.63% 0.1347 264.98);
+  --color-primary-400: oklch(59.935% 0.17139 264.46);
+  --color-primary-500: oklch(52.986% 0.20551 263.33);
+  --color-primary-600: oklch(44.617% 0.17879 263.23);
+  --color-primary-700: oklch(35.889% 0.13872 263.41);
+  --color-primary-800: oklch(26.621% 0.09533 263.86);
+  --color-primary-900: oklch(16.79% 0.04448 262.56);
+  --color-primary-950: oklch(10.389% 0.01943 248.35);
+
+  --color-secondary-50: oklch(96.04% 0.01881 5.2898);
+  --color-secondary-100: oklch(91.704% 0.04075 6.5835);
+  --color-secondary-300: oklch(76.081% 0.13189 9.4368);
+  --color-secondary-400: oklch(69.615% 0.17698 12.774);
+  --color-secondary-500: oklch(64.503% 0.2154 16.439);
+  --color-secondary-600: oklch(60.002% 0.23794 22.969);
+}

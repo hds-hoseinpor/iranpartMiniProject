@@ -19,9 +19,6 @@ npm run dev
 ```
 http://localhost:3000/
 ```
-
-مسیر قدیمی `/user-tickets` به `/` ریدایرکت می‌شود.
-
 ### سایر دستورات
 
 ```bash
